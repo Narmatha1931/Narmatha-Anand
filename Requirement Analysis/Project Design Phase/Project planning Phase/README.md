@@ -1,0 +1,41 @@
+# Project Planning Phase
+
+## Project Goal
+
+To develop a Salesforce-based Student Enrollment & Course Management System for managing students, courses, and enrollment records efficiently.
+
+## Team Members
+
+| Name | Register Number |
+|---|---|
+| Narmatha.K | 36124U09004 |
+| Madhan.M | 36124U09003 |
+| Gowtham.D | 36124U09002 |
+| Saidhani.S | 36124U09006 |
+
+## Academic Details
+
+- College Code: TVU361
+- Department: BCA
+- Semester: 5th
+
+## Planned Tasks
+
+1. Brainstorming and ideation
+2. Requirement analysis
+3. Salesforce object creation
+4. Field and relationship configuration
+5. Flow automation
+6. Security and profile configuration
+7. Reports and dashboards
+8. Testing
+9. Documentation
+10. Project demonstration
+
+## Development Approach
+
+The project will be developed and tested step-by-step using Salesforce configuration and automation features.
+
+## Expected Outcome
+
+A functional Salesforce system that manages student, course, and enrollment information with appropriate automation, security, reports, and dashboards.
