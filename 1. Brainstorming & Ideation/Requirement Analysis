@@ -1,1 +1,38 @@
 
+# Requirement Analysis
+
+## Functional Requirements
+
+1. The system should allow administrators to manage student records.
+2. The system should allow course information to be created and updated.
+3. The system should allow enrollment records to be created and maintained.
+4. The system should maintain relationships between Students, Courses, and Enrollments.
+5. The system should provide reports and dashboards.
+6. The system should support role-based access.
+
+## Non-Functional Requirements
+
+- Security
+- Reliability
+- Easy maintenance
+- User-friendly interface
+- Data accuracy
+
+## User Roles
+
+### Admin
+- Full access to the system
+- Manage students, courses, and enrollments
+
+### Enrollment Officer
+- Create and update enrollment records
+- View student and course information
+
+### Instructor
+- Read-only access to assigned enrollment information
+
+## Main Salesforce Objects
+
+- Student__c
+- Course__c
+- Enrollment__c
